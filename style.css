@@ -1,0 +1,17 @@
+h1 {
+  color: purple;
+
+}
+
+body {
+  background-color: pink;
+  font-family: Verdana, Arial, sans-serif;
+
+}
+
+#buttTest {
+  height: 200px;
+  width: 400px;
+  background-color: red;
+  color: black;
+}
